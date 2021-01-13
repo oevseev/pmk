@@ -1,0 +1,28 @@
+/*
+ * Эмулятор советских ПМК для iOS -- (c) Xen, 2014
+ *
+ * Localizable.strings
+ * Английская локализация - English Localization
+ *
+ */
+
+/* Calculator change dialog */
+"Выбор калькулятора"                                            = "Change the Calculator";
+"Изменить калькулятор на %@? Текущее состояние будет сброшено." = "Change the calculator to %@? Current state will be reset.";
+"Вы действительно хотите перезаписать имеющийся файл?"          = "Are you sure you want to rewrite the selected file?";
+
+/* Error when saving with calculator turned off */
+"Ошибка"                                                        = "Error";
+"Сохранять состояние можно лишь при включеном калькуляторе."    = "You can only save a state when the calculator is powered on.";
+
+/* Menu buttons */
+"Отменить"        = "Cancel";
+"Изменить"      = "Change";
+"Загрузить"     = "Load State";
+"Сохранить"     = "Save State";
+"Перезаписать"  = "Overwrite";
+"Инспектор"     = "Inspector";
+
+/* Names of fields in the save dialog */
+"имя файла"     = "filename";
+"описание"      = "description";

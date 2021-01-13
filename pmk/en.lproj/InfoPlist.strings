@@ -1,0 +1,8 @@
+/*
+ * Эмулятор советских ПМК для iOS -- (c) Xen, 2014
+ *
+ * InfoPlist.strings
+ *
+ */
+
+"CFBundleDisplayName" = "PMK";
